@@ -21,8 +21,9 @@ frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
 
-config/backend/__pycache__*
-config/flights/__pycache__*
+__pycache__/
+*.pyc
+*.pyo
 
 
 /env
